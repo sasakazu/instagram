@@ -8,10 +8,6 @@
 
 
 
-//   next ep1  21:40 ~
-
-
-
 import UIKit
 
 class ViewController: UIViewController {

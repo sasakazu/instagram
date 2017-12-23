@@ -15,6 +15,7 @@
 		73E77A4A1FEE08990026939A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73E77A481FEE08990026939A /* LaunchScreen.storyboard */; };
 		73E77A521FEE095B0026939A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 73E77A511FEE095B0026939A /* GoogleService-Info.plist */; };
 		73E77A541FEE10AB0026939A /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E77A531FEE10AB0026939A /* SignupViewController.swift */; };
+		73E77A561FEE59500026939A /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E77A551FEE59500026939A /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		73E77A4B1FEE08990026939A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		73E77A511FEE095B0026939A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		73E77A531FEE10AB0026939A /* SignupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
+		73E77A551FEE59500026939A /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		F8BAFD75B07E11BF204974A5 /* Pods-instagramLike.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-instagramLike.release.xcconfig"; path = "Pods/Target Support Files/Pods-instagramLike/Pods-instagramLike.release.xcconfig"; sourceTree = "<group>"; };
 		FA3711AA2CAFE4DF3BD9B3AC /* Pods-instagramLike.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-instagramLike.debug.xcconfig"; path = "Pods/Target Support Files/Pods-instagramLike/Pods-instagramLike.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -78,6 +80,7 @@
 				73E77A411FEE08990026939A /* ViewController.swift */,
 				73E77A431FEE08990026939A /* Main.storyboard */,
 				73E77A531FEE10AB0026939A /* SignupViewController.swift */,
+				73E77A551FEE59500026939A /* LoginViewController.swift */,
 				73E77A461FEE08990026939A /* Assets.xcassets */,
 				73E77A481FEE08990026939A /* LaunchScreen.storyboard */,
 				73E77A511FEE095B0026939A /* GoogleService-Info.plist */,
@@ -230,6 +233,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73E77A561FEE59500026939A /* LoginViewController.swift in Sources */,
 				73E77A541FEE10AB0026939A /* SignupViewController.swift in Sources */,
 				73E77A421FEE08990026939A /* ViewController.swift in Sources */,
 				73E77A401FEE08990026939A /* AppDelegate.swift in Sources */,
