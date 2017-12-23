@@ -6,6 +6,12 @@
 //  Copyright © 2017年 笹倉 一也. All rights reserved.
 //
 
+
+
+//   next ep1  21:40 ~
+
+
+
 import UIKit
 
 class ViewController: UIViewController {
